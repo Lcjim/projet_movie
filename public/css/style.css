@@ -1,0 +1,27 @@
+padding {
+  width: 1448px;
+  height: 100px;
+  flex-shrink: 0;
+}
+
+header {
+  background-color: #032541;
+  stroke-width: 1px;
+  stroke: #FFF;
+  color: #FFF;
+}
+
+.container_header {
+  justify-content: space-between;
+  align-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.container_header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+/*# sourceMappingURL=style.css.map */

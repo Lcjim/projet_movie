@@ -1,0 +1,33 @@
+$header-color: #032541;
+
+padding{
+    width: 1448px;
+    height: 100px;
+    flex-shrink: 0;
+}
+header{
+    
+    background-color:$header-color;
+    stroke-width: 1px;
+    stroke: #FFF;
+    color:#FFF
+   
+}
+.imageInterstellar{
+    
+}
+.container_header{
+    justify-content: space-between;
+    align-content: flex-start;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.container_header{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+
+}
+    
+
+
