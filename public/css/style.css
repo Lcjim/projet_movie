@@ -11,6 +11,10 @@ header {
   color: #FFF;
 }
 
+.imageInterstellar {
+  height: 100px;
+}
+
 .container_header {
   justify-content: space-between;
   align-content: flex-start;
